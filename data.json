@@ -1,0 +1,302 @@
+{
+  ".html": {
+    "description": "HTML(HyperText Markup Language)ファイル。",
+    "category": "html",
+    "mime": "text/html"
+  },
+  ".mhtml": {
+    "description": "MHTML(MIME Encapsulation of Aggregate HTML)ファイル。",
+    "category": "html",
+    "mime": "multipart/related"
+  },
+  ".shtml": {
+    "description": "SSI(Server Side Includes)ファイル。",
+    "category": "html",
+    "mime": "text/html"
+  },
+  ".css": {
+    "description": "CSS(Cascading Style Sheets)ファイル。",
+    "category": "html",
+    "mime": "text/css"
+  },
+  ".scss": {
+    "description": "Sass(SCSS構文)ファイル。",
+    "category": "html",
+    "mime": "text/x-scss"
+  },
+  ".md": {
+    "description": "Markdownファイル。",
+    "category": "web",
+    "mime": "text/markdown"
+  },
+  ".cgi": {
+    "description": "CGI(Common Gateway Interface)ファイル。",
+    "category": "web",
+    "mime": "application/x-httpd-cgi"
+  },
+  ".c": {
+    "description": "C言語ソースファイル。",
+    "category": "programming",
+    "mime": "text/x-c"
+  },
+  ".cpp": {
+    "description": "C++ソースファイル。",
+    "category": "programming",
+    "mime": "text/x-c++"
+  },
+  ".java": {
+    "description": "Javaソースファイル。",
+    "category": "programming",
+    "mime": "text/x-java-source"
+  },
+  ".py": {
+    "description": "Pythonソースファイル。",
+    "category": "programming",
+    "mime": "text/x-python"
+  },
+  ".js": {
+    "description": "JavaScriptファイル。",
+    "category": "html",
+    "mime": "application/javascript"
+  },
+  ".json": {
+    "description": "JSON(JavaScript Object Notation)ファイル。",
+    "category": "data",
+    "mime": "application/json"
+  },
+  ".xml": {
+    "description": "XML(eXtensible Markup Language)ファイル。",
+    "category": "data",
+    "mime": "application/xml"
+  },
+  ".yaml": {
+    "description": "YAML(YAML Ain't Markup Language)ファイル。",
+    "category": "data",
+    "mime": "application/x-yaml"
+  },
+  ".txt": {
+    "description": "テキストファイル。",
+    "category": "text",
+    "mime": "text/plain"
+  },
+  ".csv": {
+    "description": "CSV(Comma Separated Values)ファイル。",
+    "category": "data",
+    "mime": "text/csv"
+  },
+  ".zip": {
+    "description": "ZIP圧縮ファイル。",
+    "category": "archive",
+    "mime": "application/zip"
+  },
+  ".tar": {
+    "description": "TARアーカイブファイル。",
+    "category": "archive",
+    "mime": "application/x-tar"
+  },
+  ".gz": {
+    "description": "Gzip圧縮ファイル。",
+    "category": "archive",
+    "mime": "application/gzip"
+  },
+  ".rar": {
+    "description": "RAR圧縮ファイル。",
+    "category": "archive",
+    "mime": "application/x-rar-compressed"
+  },
+  ".7z": {
+    "description": "7z圧縮ファイル。",
+    "category": "archive",
+    "mime": "application/x-7z-compressed"
+  },
+  ".bmp": {
+    "description": "BMP(Bitmap)画像ファイル。",
+    "category": "image",
+    "mime": "image/bmp"
+  },
+  ".jpg": {
+    "description": "JPEG画像ファイル。",
+    "category": "image",
+    "mime": "image/jpeg"
+  },
+  ".jpeg": {
+    "description": "JPEG画像ファイル。",
+    "category": "image",
+    "mime": "image/jpeg"
+  },
+  ".png": {
+    "description": "PNG(Portable Network Graphics)画像ファイル。",
+    "category": "image",
+    "mime": "image/png"
+  },
+  ".gif": {
+    "description": "GIF(Graphics Interchange Format)画像ファイル。",
+    "category": "image",
+    "mime": "image/gif"
+  },
+  ".svg": {
+    "description": "SVG(Scalable Vector Graphics)画像ファイル。",
+    "category": "image",
+    "mime": "image/svg+xml"
+  },
+  ".webp": {
+    "description": "WebP画像ファイル。",
+    "category": "image",
+    "mime": "image/webp"
+  },
+  ".ico": {
+    "description": "アイコンファイル。",
+    "category": "image",
+    "mime": "image/x-icon"
+  },
+  ".mp3": {
+    "description": "MP3オーディオファイル。",
+    "category": "audio",
+    "mime": "audio/mpeg"
+  },
+  ".wav": {
+    "description": "WAVオーディオファイル。",
+    "category": "audio",
+    "mime": "audio/wav"
+  },
+  ".aac": {
+    "description": "AACオーディオファイル。",
+    "category": "audio",
+    "mime": "audio/aac"
+  },
+  ".ogg": {
+    "description": "OGGオーディオファイル。",
+    "category": "audio",
+    "mime": "audio/ogg"
+  },
+  ".flac": {
+    "description": "FLACオーディオファイル。",
+    "category": "audio",
+    "mime": "audio/flac"
+  },
+  ".mp4": {
+    "description": "MP4ビデオファイル。",
+    "category": "video",
+    "mime": "video/mp4"
+  },
+  ".avi": {
+    "description": "AVIビデオファイル。",
+    "category": "video",
+    "mime": "video/x-msvideo"
+  },
+  ".mov": {
+    "description": "MOVビデオファイル。",
+    "category": "video",
+    "mime": "video/quicktime"
+  },
+  ".flv": {
+    "description": "FLV(Flash Video)ファイル。",
+    "category": "video",
+    "mime": "video/x-flv"
+  },
+  ".wmv": {
+    "description": "WMV(Windows Media Video)ファイル。",
+    "category": "video",
+    "mime": "video/x-ms-wmv"
+  },
+  ".mkv": {
+    "description": "MKV(Matroska Video)ファイル。",
+    "category": "video",
+    "mime": "video/x-matroska"
+  },
+  ".pdf": {
+    "description": "PDF(Portable Document Format)ファイル。",
+    "category": "document",
+    "mime": "application/pdf"
+  },
+  ".doc": {
+    "description": "Microsoft Wordドキュメントファイル。",
+    "category": "document",
+    "mime": "application/msword"
+  },
+  ".docx": {
+    "description": "Microsoft Word Open XMLドキュメントファイル。",
+    "category": "document",
+    "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  ".xls": {
+    "description": "Microsoft Excelスプレッドシートファイル。",
+    "category": "document",
+    "mime": "application/vnd.ms-excel"
+  },
+  ".xlsx": {
+    "description": "Microsoft Excel Open XMLスプレッドシートファイル。",
+    "category": "document",
+    "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+  },
+  ".ppt": {
+    "description": "Microsoft PowerPointプレゼンテーションファイル。",
+    "category": "document",
+    "mime": "application/vnd.ms-powerpoint"
+  },
+  ".pptx": {
+    "description": "Microsoft PowerPoint Open XMLプレゼンテーションファイル。",
+    "category": "document",
+    "mime": "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+  },
+  ".epub": {
+    "description": "EPUB電子書籍ファイル。",
+    "category": "document",
+    "mime": "application/epub+zip"
+  },
+  ".odt": {
+    "description": "OpenDocument Textファイル。",
+    "category": "document",
+    "mime": "application/vnd.oasis.opendocument.text"
+  },
+  ".ods": {
+    "description": "OpenDocument Spreadsheetファイル。",
+    "category": "document",
+    "mime": "application/vnd.oasis.opendocument.spreadsheet"
+  },
+  ".odp": {
+    "description": "OpenDocument Presentationファイル。",
+    "category": "document",
+    "mime": "application/vnd.oasis.opendocument.presentation"
+  },
+  ".psd": {
+    "description": "Adobe Photoshopドキュメントファイル。",
+    "category": "image",
+    "mime": "image/vnd.adobe.photoshop"
+  },
+  ".ai": {
+    "description": "Adobe Illustratorドキュメントファイル。",
+    "category": "image",
+    "mime": "application/illustrator"
+  },
+  ".indd": {
+    "description": "Adobe InDesignドキュメントファイル。",
+    "category": "document",
+    "mime": "application/x-indesign"
+  },
+  ".log": {
+    "description": "ログファイル。",
+    "category": "data",
+    "mime": "text/plain"
+  },
+  ".apk": {
+    "description": "Androidアプリケーションパッケージファイル。",
+    "category": "android",
+    "mime": "application/vnd.android.package-archive"
+  },
+  ".ipa": {
+    "description": "iOSアプリケーションパッケージファイル。",
+    "category": "ios",
+    "mime": "application/x-itunes-ipa"
+  },
+  ".bat": {
+    "description": "Windowsバッチファイル。",
+    "category": "script",
+    "mime": "application/x-msdownload"
+  },
+  ".sh": {
+    "description": "シェルスクリプトファイル。",
+    "category": "script",
+    "mime": "application/x-sh"
+  }
+}
