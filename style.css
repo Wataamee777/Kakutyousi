@@ -1,0 +1,25 @@
+body {
+  font-family: sans-;
+  background: #f0f0f0;
+  padding: 20px;
+}
+
+.container {
+  max-width: 600px;
+  margin: auto;
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+input, button {
+  padding: 10px;
+  margin-top: 10px;
+}
+
+#result, #categoryResult {
+  margin-top: 20px;
+  background: #eee;
+  padding: 10px;
+  border-radius: 5px;
+}
