@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>拡張子検索サイト</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>拡張子検索</h1>
+    <input type="text" id="searchInput" placeholder="例: png, mp3..." />
+    <button onclick="search()">検索</button>
+
+    <div id="result"></div>
+
+    <h2>カテゴリ別一覧</h2>
+    <button onclick="showCategory('image')">画像</button>
+    <button onclick="showCategory('audio')">音声</button>
+    <button onclick="showCategory('video')">動画</button>
+    <button onclick="showCategory('audio')">音声</button>
+    <button onclick="showCategory('audio')">音声</button>
+    <button onclick="showCategory('audio')">音声</button>
+    <button onclick="showCategory('audio')">音声</button>
+
+    <div id="categoryResult"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
